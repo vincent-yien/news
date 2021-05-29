@@ -1,0 +1,728 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dimen_1px">1px</dimen>
+    <dimen name="dimen_2px">2px</dimen>
+    <dimen name="dimen_3px">3px</dimen>
+    <dimen name="dimen_4px">4px</dimen>
+    <dimen name="dimen_5px">5px</dimen>
+    <dimen name="dimen_6px">6px</dimen>
+    <dimen name="dimen_7px">7px</dimen>
+    <dimen name="dimen_8px">8px</dimen>
+    <dimen name="dimen_10px">10px</dimen>
+    <dimen name="dimen_11px">11px</dimen>
+    <dimen name="dimen_12px">12px</dimen>
+    <dimen name="dimen_13px">13px</dimen>
+    <dimen name="dimen_14px">14px</dimen>
+    <dimen name="dimen_15px">15px</dimen>
+    <dimen name="dimen_16px">16px</dimen>
+    <dimen name="dimen_17px">17px</dimen>
+    <dimen name="dimen_18px">18px</dimen>
+    <dimen name="dimen_20px">20px</dimen>
+    <dimen name="dimen_22px">22px</dimen>
+    <dimen name="dimen_24px">24px</dimen>
+    <dimen name="dimen_25px">25px</dimen>
+    <dimen name="dimen_26px">26px</dimen>
+    <dimen name="dimen_27px">27px</dimen>
+    <dimen name="dimen_30px">30px</dimen>
+    <dimen name="dimen_31px">31px</dimen>
+    <dimen name="dimen_32px">32px</dimen>
+    <dimen name="dimen_33px">33px</dimen>
+    <dimen name="dimen_34px">34px</dimen>
+    <dimen name="dimen_35px">35px</dimen>
+    <dimen name="dimen_36px">36px</dimen>
+    <dimen name="dimen_37px">37px</dimen>
+    <dimen name="dimen_38px">38px</dimen>
+    <dimen name="dimen_40px">40px</dimen>
+    <dimen name="dimen_42px">42px</dimen>
+    <dimen name="dimen_43px">43px</dimen>
+    <dimen name="dimen_44px">44px</dimen>
+    <dimen name="dimen_45px">45px</dimen>
+    <dimen name="dimen_46px">46px</dimen>
+    <dimen name="dimen_50px">50px</dimen>
+    <dimen name="dimen_51px">51px</dimen>
+    <dimen name="dimen_52px">52px</dimen>
+    <dimen name="dimen_55px">55px</dimen>
+    <dimen name="dimen_56px">56px</dimen>
+    <dimen name="dimen_58px">58px</dimen>
+    <dimen name="dimen_60px">60px</dimen>
+    <dimen name="dimen_61px">61px</dimen>
+    <dimen name="dimen_62px">62px</dimen>
+    <dimen name="dimen_48px">48px</dimen>
+    <dimen name="dimen_65px">65px</dimen>
+    <dimen name="dimen_66px">66px</dimen>
+    <dimen name="dimen_68px">68px</dimen>
+    <dimen name="dimen_69px">69px</dimen>
+    <dimen name="dimen_70px">70px</dimen>
+    <dimen name="dimen_71px">71px</dimen>
+    <dimen name="dimen_74px">74px</dimen>
+    <dimen name="dimen_75px">75px</dimen>
+    <dimen name="dimen_76px">76px</dimen>
+    <dimen name="dimen_77px">77px</dimen>
+    <dimen name="dimen_78px">78px</dimen>
+    <dimen name="dimen_80px">80px</dimen>
+    <dimen name="dimen_83px">83px</dimen>
+    <dimen name="dimen_85px">85px</dimen>
+    <dimen name="dimen_86px">86px</dimen>
+    <dimen name="dimen_88px">88px</dimen>
+    <dimen name="dimen_89px">89px</dimen>
+    <dimen name="dimen_90px">90px</dimen>
+    <dimen name="dimen_92px">92px</dimen>
+    <dimen name="dimen_94px">94px</dimen>
+    <dimen name="dimen_96px">96px</dimen>
+    <dimen name="dimen_98px">98px</dimen>
+    <dimen name="dimen_100px">100px</dimen>
+    <dimen name="dimen_101px">101px</dimen>
+    <dimen name="dimen_102px">102px</dimen>
+    <dimen name="dimen_108px">108px</dimen>
+    <dimen name="dimen_110px">110px</dimen>
+    <dimen name="dimen_104px">104px</dimen>
+    <dimen name="dimen_105px">105px</dimen>
+    <dimen name="dimen_109px">109px</dimen>
+    <dimen name="dimen_112px">112px</dimen>
+    <dimen name="dimen_114px">114px</dimen>
+    <dimen name="dimen_115px">115px</dimen>
+    <dimen name="dimen_116px">116px</dimen>
+    <dimen name="dimen_117px">117px</dimen>
+    <dimen name="dimen_118px">118px</dimen>
+    <dimen name="dimen_119px">119px</dimen>
+    <dimen name="dimen_120px">120px</dimen>
+    <dimen name="dimen_122px">122px</dimen>
+    <dimen name="dimen_124px">124px</dimen>
+    <dimen name="dimen_126px">126px</dimen>
+    <dimen name="dimen_128px">128px</dimen>
+    <dimen name="dimen_130px">130px</dimen>
+    <dimen name="dimen_132px">132px</dimen>
+    <dimen name="dimen_134px">134px</dimen>
+    <dimen name="dimen_136px">136px</dimen>
+    <dimen name="dimen_138px">138px</dimen>
+    <dimen name="dimen_140px">140px</dimen>
+    <dimen name="dimen_144px">144px</dimen>
+    <dimen name="dimen_147px">147px</dimen>
+    <dimen name="dimen_148px">148px</dimen>
+    <dimen name="dimen_151px">151px</dimen>
+    <dimen name="dimen_150px">150px</dimen>
+    <dimen name="dimen_154px">154px</dimen>
+    <dimen name="dimen_156px">156px</dimen>
+    <dimen name="dimen_160px">160px</dimen>
+    <dimen name="dimen_162px">162px</dimen>
+    <dimen name="dimen_164px">164px</dimen>
+    <dimen name="dimen_166px">166px</dimen>
+    <dimen name="dimen_168px">168px</dimen>
+    <dimen name="dimen_158px">158px</dimen>
+    <dimen name="dimen_170px">170px</dimen>
+    <dimen name="dimen_174px">174px</dimen>
+    <dimen name="dimen_175px">175px</dimen>
+    <dimen name="dimen_177px">177px</dimen>
+    <dimen name="dimen_180px">180px</dimen>
+    <dimen name="dimen_182px">182px</dimen>
+    <dimen name="dimen_184px">184px</dimen>
+    <dimen name="dimen_188px">188px</dimen>
+    <dimen name="dimen_190px">190px</dimen>
+    <dimen name="dimen_195px">195px</dimen>
+    <dimen name="dimen_197px">197px</dimen>
+    <dimen name="dimen_199px">199px</dimen>
+    <dimen name="dimen_198px">198px</dimen>
+    <dimen name="dimen_200px">200px</dimen>
+    <dimen name="dimen_202px">202px</dimen>
+    <dimen name="dimen_204px">204px</dimen>
+    <dimen name="dimen_206px">206px</dimen>
+    <dimen name="dimen_208px">208px</dimen>
+    <dimen name="dimen_210px">210px</dimen>
+    <dimen name="dimen_211px">211px</dimen>
+    <dimen name="dimen_214px">214px</dimen>
+    <dimen name="dimen_220px">220px</dimen>
+    <dimen name="dimen_222px">222px</dimen>
+    <dimen name="dimen_224px">224px</dimen>
+    <dimen name="dimen_228px">228px</dimen>
+    <dimen name="dimen_230px">230px</dimen>
+    <dimen name="dimen_236px">236px</dimen>
+    <dimen name="dimen_232px">232px</dimen>
+    <dimen name="dimen_233px">233px</dimen>
+    <dimen name="dimen_237px">237px</dimen>
+    <dimen name="dimen_239px">239px</dimen>
+    <dimen name="dimen_240px">240px</dimen>
+    <dimen name="dimen_242px">242px</dimen>
+    <dimen name="dimen_243px">243px</dimen>
+    <dimen name="dimen_244px">244px</dimen>
+    <dimen name="dimen_246px">246px</dimen>
+    <dimen name="dimen_248px">248px</dimen>
+    <dimen name="dimen_250px">250px</dimen>
+    <dimen name="dimen_252px">252px</dimen>
+    <dimen name="dimen_253px">253px</dimen>
+    <dimen name="dimen_254px">254px</dimen>
+    <dimen name="dimen_256px">256px</dimen>
+    <dimen name="dimen_262px">262px</dimen>
+    <dimen name="dimen_264px">264px</dimen>
+    <dimen name="dimen_266px">266px</dimen>
+    <dimen name="dimen_268px">268px</dimen>
+    <dimen name="dimen_270px">270px</dimen>
+    <dimen name="dimen_272px">272px</dimen>
+    <dimen name="dimen_280px">280px</dimen>
+    <dimen name="dimen_282px">282px</dimen>
+    <dimen name="dimen_283px">283px</dimen>
+    <dimen name="dimen_284px">284px</dimen>
+    <dimen name="dimen_286px">286px</dimen>
+    <dimen name="dimen_292px">292px</dimen>
+    <dimen name="dimen_296px">296px</dimen>
+    <dimen name="dimen_298px">298px</dimen>
+    <dimen name="dimen_300px">300px</dimen>
+    <dimen name="dimen_302px">302px</dimen>
+    <dimen name="dimen_308px">308px</dimen>
+    <dimen name="dimen_310px">310px</dimen>
+    <dimen name="dimen_312px">312px</dimen>
+    <dimen name="dimen_314px">314px</dimen>
+    <dimen name="dimen_316px">316px</dimen>
+    <dimen name="dimen_318px">318px</dimen>
+    <dimen name="dimen_320px">320px</dimen>
+    <dimen name="dimen_322px">322px</dimen>
+    <dimen name="dimen_324px">324px</dimen>
+    <dimen name="dimen_330px">330px</dimen>
+    <dimen name="dimen_334px">334px</dimen>
+    <dimen name="dimen_336px">336px</dimen>
+    <dimen name="dimen_342px">342px</dimen>
+    <dimen name="dimen_343px">343px</dimen>
+    <dimen name="dimen_348px">348px</dimen>
+    <dimen name="dimen_349px">349px</dimen>
+    <dimen name="dimen_350px">350px</dimen>
+    <dimen name="dimen_355px">355px</dimen>
+    <dimen name="dimen_358px">358px</dimen>
+    <dimen name="dimen_360px">360px</dimen>
+    <dimen name="dimen_364px">364px</dimen>
+    <dimen name="dimen_368px">368px</dimen>
+    <dimen name="dimen_370px">370px</dimen>
+    <dimen name="dimen_372px">372px</dimen>
+    <dimen name="dimen_380px">380px</dimen>
+    <dimen name="dimen_388px">388px</dimen>
+    <dimen name="dimen_390px">390px</dimen>
+    <dimen name="dimen_396px">396px</dimen>
+    <dimen name="dimen_400px">400px</dimen>
+    <dimen name="dimen_402px">402px</dimen>
+    <dimen name="dimen_408px">408px</dimen>
+    <dimen name="dimen_410px">410px</dimen>
+    <dimen name="dimen_412px">412px</dimen>
+    <dimen name="dimen_414px">414px</dimen>
+    <dimen name="dimen_416px">416px</dimen>
+    <dimen name="dimen_418px">418px</dimen>
+    <dimen name="dimen_426px">426px</dimen>
+    <dimen name="dimen_428px">428px</dimen>
+    <dimen name="dimen_430px">430px</dimen>
+    <dimen name="dimen_440px">440px</dimen>
+    <dimen name="dimen_444px">444px</dimen>
+    <dimen name="dimen_450px">450px</dimen>
+    <dimen name="dimen_452px">452px</dimen>
+    <dimen name="dimen_456px">456px</dimen>
+    <dimen name="dimen_460px">460px</dimen>
+    <dimen name="dimen_470px">470px</dimen>
+    <dimen name="dimen_472px">472px</dimen>
+    <dimen name="dimen_474px">474px</dimen>
+    <dimen name="dimen_478px">478px</dimen>
+    <dimen name="dimen_480px">480px</dimen>
+    <dimen name="dimen_484px">484px</dimen>
+    <dimen name="dimen_488px">488px</dimen>
+    <dimen name="dimen_492px">492px</dimen>
+    <dimen name="dimen_495px">495px</dimen>
+    <dimen name="dimen_498px">498px</dimen>
+    <dimen name="dimen_500px">500px</dimen>
+    <dimen name="dimen_504px">504px</dimen>
+    <dimen name="dimen_508px">508px</dimen>
+    <dimen name="dimen_510px">510px</dimen>
+    <dimen name="dimen_512px">512px</dimen>
+    <dimen name="dimen_521px">521px</dimen>
+    <dimen name="dimen_526px">526px</dimen>
+    <dimen name="dimen_534px">534px</dimen>
+    <dimen name="dimen_540px">540px</dimen>
+    <dimen name="dimen_543px">543px</dimen>
+    <dimen name="dimen_550px">550px</dimen>
+    <dimen name="dimen_554px">554px</dimen>
+    <dimen name="dimen_555px">555px</dimen>
+    <dimen name="dimen_560px">560px</dimen>
+    <dimen name="dimen_568px">568px</dimen>
+    <dimen name="dimen_572px">572px</dimen>
+    <dimen name="dimen_580px">580px</dimen>
+    <dimen name="dimen_586px">586px</dimen>
+    <dimen name="dimen_592px">592px</dimen>
+    <dimen name="dimen_596px">596px</dimen>
+    <dimen name="dimen_600px">600px</dimen>
+    <dimen name="dimen_603px">603px</dimen>
+    <dimen name="dimen_620px">620px</dimen>
+    <dimen name="dimen_622px">622px</dimen>
+    <dimen name="dimen_638px">638px</dimen>
+    <dimen name="dimen_642px">642px</dimen>
+    <dimen name="dimen_645px">645px</dimen>
+    <dimen name="dimen_648px">648px</dimen>
+    <dimen name="dimen_670px">670px</dimen>
+    <dimen name="dimen_684px">684px</dimen>
+    <dimen name="dimen_694px">694px</dimen>
+    <dimen name="dimen_696px">696px</dimen>
+    <dimen name="dimen_719px">719px</dimen>
+    <dimen name="dimen_721px">721px</dimen>
+    <dimen name="dimen_730px">730px</dimen>
+    <dimen name="dimen_739px">739px</dimen>
+    <dimen name="dimen_744px">744px</dimen>
+    <dimen name="dimen_756px">756px</dimen>
+    <dimen name="dimen_760px">760px</dimen>
+    <dimen name="dimen_766px">766px</dimen>
+    <dimen name="dimen_780px">780px</dimen>
+    <dimen name="dimen_782px">782px</dimen>
+    <dimen name="dimen_798px">798px</dimen>
+    <dimen name="dimen_818px">818px</dimen>
+    <dimen name="dimen_820px">820px</dimen>
+    <dimen name="dimen_822px">822px</dimen>
+    <dimen name="dimen_836px">836px</dimen>
+    <dimen name="dimen_838px">838px</dimen>
+    <dimen name="dimen_867px">867px</dimen>
+    <dimen name="dimen_894px">894px</dimen>
+    <dimen name="dimen_930px">930px</dimen>
+    <dimen name="dimen_943px">943px</dimen>
+    <dimen name="dimen_945px">945px</dimen>
+    <dimen name="dimen_960px">960px</dimen>
+    <dimen name="dimen_974px">974px</dimen>
+    <dimen name="dimen_990px">990px</dimen>
+    <dimen name="dimen_1018px">1018px</dimen>
+    <dimen name="dimen_1044px">1044px</dimen>
+    <dimen name="dimen_1052px">1052px</dimen>
+    <dimen name="dimen_1080px">1080px</dimen>
+    <dimen name="dimen_1122px">1122px</dimen>
+    <dimen name="dimen_1134px">1134px</dimen>
+    <dimen name="dimen_1145px">1145px</dimen>
+    <dimen name="dimen_1190px">1190px</dimen>
+    <dimen name="dimen_1205px">1205px</dimen>
+    <dimen name="dimen_1221px">1221px</dimen>
+    <dimen name="dimen_1224px">1224px</dimen>
+    <dimen name="dimen_1284px">1284px</dimen>
+    <dimen name="dimen_1346px">1346px</dimen>
+    <dimen name="dimen_1360px">1360px</dimen>
+    <dimen name="dimen_1390px">1390px</dimen>
+    <dimen name="dimen_1528px">1528px</dimen>
+    <dimen name="dimen_1580px">1580px</dimen>
+    <dimen name="dimen_1596px">1596px</dimen>
+    <dimen name="dimen_1680px">1680px</dimen>
+    <dimen name="dimen_1690px">1690px</dimen>
+    <dimen name="dimen_1686px">1686px</dimen>
+    <dimen name="dimen_1920px">1920px</dimen>
+    <dimen name="dimen_304px">304px</dimen>
+    <dimen name="dimen_font_36px">36px</dimen>
+    <dimen name="dimen_font_42px">42px</dimen>
+    <dimen name="dimen_font_46px">46px</dimen>
+    <dimen name="dimen_font_48px">48px</dimen>
+
+    <!-- 通用Dialog -->
+    <dimen name="dialog_margin_vertical_80px">80px</dimen>
+    <dimen name="dialog_margin_vertical_10px">10px</dimen>
+    <dimen name="dialog_size_44px">44px</dimen>
+    <dimen name="dialog_btn_width_620px">620px</dimen>
+    <dimen name="dialog_margin_vertical_68px">68px</dimen>
+    <dimen name="dialog_margin_vertical_48px">48px</dimen>
+    <dimen name="dialog_btn_textsize_36px">36px</dimen>
+    <dimen name="dialog_btn_height_90px">90px</dimen>
+    <dimen name="dialog_text_line_space_20px">20px</dimen>
+
+    <!-- home navigation definition -->
+
+    <!-- home navigation item layout definition -->
+
+    <!-- home logo definition -->
+    <dimen name="home_logo_margin_right">42px</dimen>
+
+    <!-- home tab for theme -->
+    <dimen name="home_tab_item_top_margin">4px</dimen>
+    <dimen name="home_tab_item_bottom_margin">5px</dimen>
+
+    <!-- home list item definition -->
+    <dimen name="home_item_tag_width">72px</dimen>
+    <dimen name="home_item_tag_height">30px</dimen>
+    <dimen name="home_item_font_size">30px</dimen>
+    <dimen name="home_item_more_indecator_size">42px</dimen>
+    <!-- retrieve list item definition -->
+    <dimen name="retrieve_col_tab_item_margin">26px</dimen>
+    <dimen name="retrieve_col_tab_text_size">42px</dimen>
+    <dimen name="retrieve_item_name_info_left_offset">24px</dimen>
+
+    <!-- filter result page definition -->
+
+    <!-- special list definition -->
+
+    <!-- special favorite button definition -->
+    <dimen name="special_favorite_text_size">36px</dimen>
+
+    <!-- filter list definition -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="detail_page_icon_width">360px</dimen>
+    <dimen name="detail_page_icon_height">504px</dimen>
+    <dimen name="detail_page_clarity_padding">6px</dimen>
+    <dimen name="detail_page_button_width">132px</dimen>
+
+    <!-- tv control -->
+    <dimen name="detail_page_tvcontrol_gridview_width">1920px</dimen>
+
+    <!-- search -->
+    <dimen name="search_mBottom">144px</dimen>
+
+    <!-- history -->
+    <dimen name="history_tips_icon_font_size">50px</dimen>
+    <dimen name="history_tips_font_size">40px</dimen>
+
+    <!-- 升级Dialog -->
+
+    <!-- about -->
+
+    <!-- wifi setting -->
+
+    <!-- wifi info setting -->
+
+    <!-- wifi config setting -->
+
+    <!-- common -->
+
+    <!-- boot wizard -->
+
+    <!-- home app -->
+    <!-- app store column title -->
+    <!-- app store common definition -->
+    <!-- app store title -->
+
+    <!-- skin page -->
+
+    <!-- weather -->
+
+    <!-- account dialog -->
+
+    <!-- feedback -->
+    <dimen name="dimen_1000px">1000px</dimen>
+    <dimen name="dimen_668px">668px</dimen>
+    <dimen name="dimen_28px">28px</dimen>
+    <dimen name="dimen_1216px">1216px</dimen>
+
+    <!-- setting -->
+    <dimen name="setting_item_width">1164px</dimen>
+    <dimen name="setting_item_height">118px</dimen>
+
+    <!-- mark view -->
+    <dimen name="mark_view_text_size">36px</dimen>
+
+    <!-- listView scrollBar -->
+    <dimen name="dimen_1264px">1264px</dimen>
+    <!-- 轮播 -->
+    <dimen name="carousel_video_title_width">710px</dimen>
+    <dimen name="carousel_video_title_height">228px</dimen>
+    <dimen name="carousel_video_title_margin_bottom">18px</dimen>
+    <dimen name="carousel_video_title_num_text_size">120px</dimen>
+    <dimen name="play_loading_view_video_title_margin_top">460px</dimen>
+    <dimen name="play_loading_view_video_title_text_size">50px</dimen>
+    <dimen name="play_loading_view_speed_margin_top">28px</dimen>
+    <dimen name="play_loading_view_speed_text_size">28px</dimen>
+    <dimen name="play_loading_view_progress_bar_margin_top">40px</dimen>
+    <dimen name="play_loading_view_progress_bar_width">638px</dimen>
+    <dimen name="play_loading_view_progress_bar_height">10px</dimen>
+    <dimen name="carousel_channel_remote_margin_top">20px</dimen>
+    <dimen name="carousel_channel_remote_margin_right">20px</dimen>
+    <dimen name="carousel_channel_remote_text_width">340px</dimen>
+
+    <!-- new filter page -->
+    <dimen name="filter_page_top_margin">218px</dimen>
+    <dimen name="filter_page_init_margin">145px</dimen>
+    <dimen name="filter_page_list_margin">50px</dimen>
+    <dimen name="filter_page_list_item_height">88px</dimen>
+    <dimen name="filter_page_list_item_icon_margin">28px</dimen>
+    <dimen name="filter_page_list_item_name_margin">12px</dimen>
+    <dimen name="filter_page_list_item_name_size">36px</dimen>
+
+    <!-- vip -->
+
+    <!-- home card scale -->
+    <dimen name="card_corner_radius">12px</dimen>
+    <dimen name="list_offset_for_scale">500px</dimen>
+
+    <!-- retrieve card scale -->
+
+    <!-- history card scale -->
+
+    <!-- special card scale -->
+
+    <!-- 播放界面相关小视频 -->
+    <dimen name="player_relative_height">344px</dimen>
+
+    <!-- 播放界面广告 -->
+    <dimen name="player_ad_time_height">80px</dimen>
+    <dimen name="player_ad_time_margin_top">24px</dimen>
+    <dimen name="player_ad_time_margin_right">24px</dimen>
+    <dimen name="player_ad_time_size">36px</dimen>
+    <dimen name="player_ad_time_text_width">87px</dimen>
+    <dimen name="player_ad_des_text__max_width">591px</dimen>
+    <dimen name="player_ad_qr_width">256px</dimen>
+    <dimen name="player_ad_qr_white_edge_width">8px</dimen>
+    <dimen name="player_ad_qr_margin_left">50px</dimen>
+    <dimen name="player_ad_qr_margin_bottom">50px</dimen>
+    <dimen name="player_ad_ps_qr_width">300px</dimen>
+    <dimen name="player_ad_ps_qr_margin_left">50px</dimen>
+
+    <!-- 领取金卡会员 -->
+    <dimen name="register_member_step3_package_width">217px</dimen>
+
+    <!-- 添加百视通logo -->
+    <dimen name="player_bestv_logo_magin_top">76px</dimen>
+    <dimen name="player_bestv_logo_magin_right">102px</dimen>
+    <dimen name="player_bestv_logo_width">147px</dimen>
+
+    <!-- 新闻播放专题 -->
+    <dimen name="special_player_list_item_title_size">36px</dimen>
+    <dimen name="special_player_list_item_title_margin_left">12px</dimen>
+    <dimen name="special_player_list_item_title_margin_right">16px</dimen>
+    <dimen name="special_player_video_view_width">996px</dimen>
+    <dimen name="special_player_video_view_height">560px</dimen>
+    <dimen name="special_player_video_view_margin_left">116px</dimen>
+    <dimen name="special_player_video_view_margin_top">248px</dimen>
+    <dimen name="special_player_list_container_margin_top">0px</dimen>
+    <dimen name="special_player_video_layout_width">1170px</dimen>
+    <dimen name="special_player_video_layout_height">802px</dimen>
+    <dimen name="special_player_video_layout_margin_left">29px</dimen>
+    <dimen name="special_player_video_layout_margin_top">169px</dimen>
+    <dimen name="special_player_video_layout_info_margin_left">28px</dimen>
+    <dimen name="special_player_video_layout_info_margin_right">28px</dimen>
+    <dimen name="special_player_video_layout_info_margin_top">585px</dimen>
+    <dimen name="special_player_list_view_width">762px</dimen>
+    <dimen name="special_player_list_view_height">802px</dimen>
+    <dimen name="special_player_list_view_margin_left">1129px</dimen>
+    <dimen name="special_player_list_view_margin_top">169px</dimen>
+    <dimen name="special_player_list_view_focus_border">59px</dimen>
+    <dimen name="special_player_list_view_bg_border">59px</dimen>
+    <dimen name="special_player_list_view_item_width">648px</dimen>
+    <dimen name="special_player_list_view_item_height">76px</dimen>
+    <dimen name="special_player_list_item_subtitle_size">24px</dimen>
+    <dimen name="special_player_list_item_status_icon_size">28px</dimen>
+    <dimen name="special_player_list_item_status_icon_margin_left">16px</dimen>
+    <dimen name="special_player_title_margin_left">88px</dimen>
+    <dimen name="special_player_title_margin_top">128px</dimen>
+    <dimen name="special_player_title_text_size">48px</dimen>
+    <dimen name="special_player_favorite_text_size">36px</dimen>
+
+    <!-- 新闻播放专题带图片list样式 -->
+    <dimen name="special_player_pic_list_view_item_width">648px</dimen>
+    <dimen name="special_player_pic_list_view_item_height">114px</dimen>
+    <dimen name="special_player_pic_list_item_pic_width">160px</dimen>
+    <dimen name="special_player_pic_list_item_pic_height">90px</dimen>
+    <dimen name="special_player_pic_list_item_pic_margin_left">28px</dimen>
+    <dimen name="special_player_text_list_item_pic_width">418px</dimen>
+    <dimen name="special_player_pic_list_item_text_margin_left">10px</dimen>
+    <dimen name="special_player_pic_list_item_text_margin_right">28px</dimen>
+
+    <!-- 新闻首页 -->
+    <dimen name="news_special_list_height">968px</dimen>
+    <dimen name="news_special_list_margin_top">56px</dimen>
+    <dimen name="news_special_list_top_shade_height">171px</dimen>
+    <dimen name="news_special_list_bottom_shade_height">171px</dimen>
+    <dimen name="news_special_list_item_width">220px</dimen>
+    <dimen name="news_special_list_item_height">104px</dimen>
+    <dimen name="news_special_list_item_padding">34px</dimen>
+    <dimen name="news_special_list_item_text_size">38px</dimen>
+    <dimen name="news_playing_item_title_text_size">44px</dimen>
+    <dimen name="news_home_logo_width">396px</dimen>
+    <dimen name="news_home_logo_height">144px</dimen>
+
+    <!-- 直播大厅 -->
+
+
+    <!-- add by liuxingxin -->
+    <dimen name="dimen_226px">226px</dimen>
+    <dimen name="dimen_192px">192px</dimen>
+    <dimen name="dimen_216px">216px</dimen>
+    <dimen name="dimen_328px">328px</dimen>
+    <dimen name="dimen_392px">392px</dimen>
+    <dimen name="dimen_84px">84px</dimen>
+    <dimen name="dimen_64px">64px</dimen>
+    <dimen name="dimen_54px">54px</dimen>
+    <dimen name="dimen_276px">276px</dimen>
+    <dimen name="dimen_186px">186px</dimen>
+    <dimen name="dimen_260px">260px</dimen>
+    <dimen name="dimen_680px">680px</dimen>
+    <dimen name="dimen_72px">72px</dimen>
+    <!-- end -->
+
+
+    <!-- launcher 2.0 start -->
+    <!-- common dimens -->
+    <dimen name="launcher_left_offset">88px</dimen>
+    <dimen name="grid_scroll_delta">200px</dimen>
+    <dimen name="video_turn_page_offset">1600px</dimen>
+    <dimen name="movie_home_turn_page_offset">1820px</dimen>
+    <dimen name="tv_home_turn_page_offset">1644px</dimen>
+    <dimen name="launcher_viewpager_top_offset">124px</dimen>
+    <dimen name="launcher_grid_top_padding">104px</dimen>
+    <dimen name="launcher_grid_right_padding">88px</dimen>
+    <dimen name="launcher_grid_bottom_padding">100px</dimen>
+    <dimen name="launcher_cell_size_threshold">400px</dimen>
+
+    <!-- home indicator dimens -->
+    <dimen name="home_indicator_top_offset">86px</dimen>
+
+    <!-- 首页 电视 -->
+    <dimen name="home_tv_title_size">24px</dimen>
+
+    <!-- cells dimens -->
+    <dimen name="cell_common_margin">12px</dimen>
+    <dimen name="cell_wide_margin">48px</dimen>
+    <dimen name="retrieve_cell_wide_margin">36px</dimen>
+    <dimen name="retrieve_movie_cell_wide_margin">56px</dimen>
+    <dimen name="square_base_cell_width">220px</dimen>
+    <dimen name="square_base_cell_height">220px</dimen>
+    <dimen name="square_base_cell_bottom_margin">20px</dimen>
+    <dimen name="poster_base_cell_width">392px</dimen>
+    <dimen name="poster_base_cell_height">220px</dimen>
+    <dimen name="rank_list_cell_width">400px</dimen>
+    <dimen name="rank_list_poster_cell_height">297px</dimen>
+    <dimen name="rank_list_poster_height">216px</dimen>
+    <dimen name="rank_list_icon_height">81px</dimen>
+    <dimen name="kankan_cell_top_margin">8px</dimen>
+    <dimen name="kankan_video_cell_width">904px</dimen>
+
+    <!-- home quick entry dimens -->
+    <dimen name="popbar_item_inner_space">20px</dimen>
+    <dimen name="popbar_common_item_top_padding">8px</dimen>
+    <dimen name="popbar_common_item_bottom_padding">18px</dimen>
+    <dimen name="popbar_common_item_title_size">26px</dimen>
+
+    <!-- retrieve list -->
+    <dimen name="retrieve_list_item_h_width">396px</dimen>
+    <dimen name="retrieve_list_item_h_height">318px</dimen>
+
+    <!-- rank list page -->
+    <dimen name="rank_list_item_width">300px</dimen>
+    <dimen name="rank_list_item_height">416px</dimen>
+    <dimen name="rank_list_item_total_height">516px</dimen>
+    <dimen name="rank_list_item_margin">40px</dimen>
+    <dimen name="rank_list_item_h_width">396px</dimen>
+    <dimen name="rank_list_item_h_height">318px</dimen>
+    <dimen name="rank_list_item_h_total_height">418px</dimen>
+    <dimen name="rank_list_item_h_poster_height">224px</dimen>
+    <dimen name="rank_list_item_h_text_height">94px</dimen>
+    <dimen name="rank_list_item_h_margin">24px</dimen>
+
+    <!-- setting page -->
+
+
+    <!-- launcher 2.0 end -->
+    <!-- fun menu start -->
+    <dimen name="tv_fun_menu_width">182px</dimen>
+    <dimen name="tv_fun_menu_padding_top">20px</dimen>
+    <dimen name="tv_fun_menu_icon_margin_bottom">22px</dimen>
+    <dimen name="tv_fun_menu_icon_height">80px</dimen>
+    <dimen name="tv_fun_menu_icon_width">80px</dimen>
+    <dimen name="tv_fun_menu_text_margin_bottom">60px</dimen>
+
+    <!-- fun menu end -->
+    
+    <!-- player -->
+    <dimen name="player_menu_selecter_width">290px</dimen>
+    <dimen name="player_menu_selecter_height">88px</dimen>
+    <dimen name="player_episode_title_margin_top">40px</dimen>
+    <dimen name="player_episode_title_margin_left">88px</dimen>
+    <dimen name="player_episode_layout_margin_top">141px</dimen>
+    <dimen name="player_episode_layout_margin_bottom">40px</dimen>
+    <dimen name="dimen_152px">152px</dimen>
+    <dimen name="dimen_21px">21px</dimen>
+    <dimen name="dimen_1645px">1645px</dimen>
+    <dimen name="dimen_82px">82px</dimen>
+    <dimen name="dimen_23px">23px</dimen>
+    <dimen name="player_touch_y">900px</dimen>
+
+    <!-- NBA -->
+
+    <dimen name="net_tips_base_width">710px</dimen>
+	<dimen name="net_tips_movie_width">848px</dimen>
+	<dimen name="net_tips_news_width">812px</dimen>
+	
+    <dimen name="dimen_714px">714px</dimen>
+    <dimen name="dimen_59px">59px</dimen>
+    <dimen name="dimen_644px">644px</dimen>
+    <dimen name="dimen_212px">212px</dimen>
+    <dimen name="dimen_135px">135px</dimen>
+
+    <dimen name="dimen_880px">880px</dimen>
+    <dimen name="dimen_290px">290px</dimen>
+    <dimen name="dimen_846px">846px</dimen>
+    <dimen name="dimen_1144px">1144px</dimen>
+    <dimen name="dimen_1192px">1192px</dimen>
+    <dimen name="dimen_172px">172px</dimen>
+    <dimen name="dimen_121px">121px</dimen>
+
+
+    <!-- for 00:00 Remind -->
+    <dimen name="dimen_1033px">1033px</dimen>
+    <dimen name="dimen_1243px">1243px</dimen>
+    <dimen name="dimen_1320px">1320px</dimen>
+    <dimen name="dimen_457px">457px</dimen>
+    <dimen name="dimen_309px">309px</dimen>
+    <dimen name="dimen_319px">319px</dimen>
+    <dimen name="dimen_53px">53px</dimen>
+    <dimen name="dimen_1133px">1133px</dimen>
+    <dimen name="dimen_234px">234px</dimen>
+    <dimen name="dimen_81px">81px</dimen>
+    <dimen name="dimen_87px">87px</dimen>
+    <dimen name="dimen_384px">384px</dimen>
+    <dimen name="dimen_327px">327px</dimen>
+    <dimen name="dimen_273px">273px</dimen>
+    <dimen name="dimen_63px">63px</dimen>
+    <dimen name="dimen_91px">91px</dimen>
+	<dimen name="dimen_159px">159px</dimen> 
+	<dimen name="dimen_137px">137px</dimen>
+    <!--for 00:00 Remind End  -->
+	
+	<!--for home shop  -->
+
+    <!-- for home shop End -->
+    <!-- add by liuxingxin for 3.5 体育通用模版 -->
+    <dimen name="dimen_640px">640px</dimen>
+    <dimen name="dimen_288px">288px</dimen>
+
+    <dimen name="dimen_800px">800px</dimen>
+    <!-- add by liuxingxin for 3.5 体育通用模版End -->
+    
+    <dimen name="status_bar_message_margin_right">147px</dimen>
+    <dimen name="status_bar_message_margin_top">37px</dimen>
+    <dimen name="episode_normal_cell_width">112px</dimen>
+    <dimen name="episode_text_cell_width">604px</dimen>
+    <dimen name="home_tv_default_pic_width">166px</dimen>
+    <dimen name="dimen_rccycle_setting_item_115px">115px</dimen>
+    
+    <dimen name="education_retrieve_title_margin_left">-8px</dimen>
+
+    <dimen name="dimen_1040px">1040px</dimen>
+    <dimen name="dimen_652px">652px</dimen>
+    <dimen name="dimen_425">425px</dimen>
+    <dimen name="lock_barcode_size">425px</dimen>
+    <dimen name="dimen_259">259px</dimen>
+    <dimen name="dimen_1032">1032px</dimen>
+    <dimen name="dimen_5">5px</dimen>
+
+    <dimen name="news_playing_list_width">502px</dimen>
+    <dimen name="news_playing_list_height">968px</dimen>
+    <dimen name="news_playing_list_margin_top">56px</dimen>
+    <dimen name="news_playing_list_margin_left">276px</dimen>
+    <dimen name="news_playing_list_item_width">470px</dimen>
+    <dimen name="news_playing_list_item_height">104px</dimen>
+    <dimen name="news_playing_list_item_pic_width">135px</dimen>
+    <dimen name="news_playing_list_item_pic_height">76px</dimen>
+    <dimen name="news_playing_list_item_pic_margin_left">10px</dimen>
+    <dimen name="news_playing_list_item_duration_width">60px</dimen>
+    <dimen name="news_playing_list_item_duration_height">28px</dimen>
+    <dimen name="news_playing_list_item_text_width">289px</dimen>
+    <dimen name="news_playing_list_item_text_margin_left">18px</dimen>
+    <dimen name="news_playing_list_item_text_margin_right">18px</dimen>
+    <dimen name="news_playing_list_item_text_size">32px</dimen>
+    <dimen name="news_special_list_width">252px</dimen>
+    <dimen name="news_focus_border">16px</dimen>
+    <dimen name="news_player_layout_width">1110px</dimen>
+    <dimen name="news_player_layout_height">819px</dimen>
+    <dimen name="news_player_layout_margin_left">771px</dimen>
+    <dimen name="news_player_layout_margin_top">131px</dimen>
+    <dimen name="news_playing_item_title_margin_left">24px</dimen>
+    <dimen name="news_playing_item_title_margin_top">638px</dimen>
+    <dimen name="news_playing_item_subtitle_margin_top">10px</dimen>
+    <dimen name="news_playing_item_subtitle_text_size">30px</dimen>
+    <dimen name="player_view_container_width">1062px</dimen>
+    <dimen name="player_view_container_height">600px</dimen>
+    <dimen name="player_view_container_margin_left">795px</dimen>
+    <dimen name="player_view_container_margin_top">155px</dimen>
+</resources>
